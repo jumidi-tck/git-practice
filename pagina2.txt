@@ -1,1 +1,3 @@
 Esta es la página 2.
+
+Línea nueva escrita para la página 2.
