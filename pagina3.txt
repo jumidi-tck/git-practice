@@ -1,6 +1,2 @@
-<<<<<<< HEAD
 Ésta es la página 3
-=======
-Ésta es la página
 Enim labore nulla officia excepteur sunt duis reprehenderit.
->>>>>>> feature/123--add-text
